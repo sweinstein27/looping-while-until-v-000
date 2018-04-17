@@ -6,7 +6,7 @@ loop do
 	puts "Wingardium Leviosa"
 	levitation_force += 1
 	counter +=
-	if counter = 4
+	if counter == 4
 		break
 	end
 end
