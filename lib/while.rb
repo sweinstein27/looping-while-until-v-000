@@ -1,5 +1,5 @@
-# def using_while
-# 	levitation_force = 1
+ def using_while
+	levitation_force = 1
 # counter = 0
 # loop do
 # 	while levitation_force == 10
@@ -10,4 +10,4 @@
 # 		break
 # 	end
 # end
-# end
+ end
